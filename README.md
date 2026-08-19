@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <strong>Cybersecurity Enthusiast • Ethical Hacker • Security Researcher</strong><br />
-  <sub>Learning, building, and sharing practical cybersecurity knowledge.</sub>
+  <strong>Penetration Tester • Security Researcher • Threat Hunter</strong><br />
+  <sub>I break into things for a living, and write up exactly how — dead ends included.</sub>
 </p>
 
 <p align="center">
   <a href="https://zephryx.in">
     <img src="https://img.shields.io/badge/Website-8B0000?style=for-the-badge" />
   </a>
-  <a href="https://www.youtube.com/@Zephryx06">
+  <a href="https://www.youtube.com/@ZephryxSec">
     <img src="https://img.shields.io/badge/YouTube-8B0000?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/zephryx">
@@ -37,12 +37,15 @@ zephryx@github:~$ whoami
 
 Zephryx
 
-A cybersecurity enthusiast passionate about
-ethical hacking, security research, Linux,
-and practical learning.
+Penetration tester and security researcher.
+Scoped, authorised engagements — initial access,
+Active Directory attack paths, and the report
+that makes it worth paying for.
 
-I enjoy building things, solving problems,
-and sharing what I learn with others.
+Day job is threat hunting on a SOC, which is
+where I learned what actually gets noticed.
+Every way in I find, I go back and work out
+what would have caught it.
 ```
 
 ---
@@ -50,77 +53,76 @@ and sharing what I learn with others.
 ## `$ cat mission.txt`
 
 ```console
-Making cybersecurity simple, practical,
-and easy to apply in the real world.
+Break in properly, write it up honestly,
+and leave behind a detection for the next
+person who tries the same door.
 ```
 
 ---
 
 ## `> operational_focus`
 
-- Ethical hacking and offensive security
-- Threat hunting and security research
-- Linux and networking fundamentals
-- Web security and reconnaissance
+- Penetration testing — initial access through to objective, fully scoped and authorised
+- Active Directory attack paths — Kerberos abuse, ACL abuse, delegation, ADCS
+- Adversary emulation mapped to MITRE ATT&CK
+- Web / API exploitation — authz flaws, SSRF, deserialisation
+- Detection engineering — Sigma, KQL, closing the loop on what I find
 - Security automation using Python and Bash
-- Learning and teaching practical cybersecurity concepts
 
 ---
 
 ## `> currently_learning`
 
 ```bash
-Linux Internals
-Web Security
-Threat Hunting
-Python Automation
-Security Research
-Offensive Security
-Network Analysis
-Practical Labs
+Cloud Attack Paths
+Malware Analysis
+EDR Evasion
+Advanced ADCS Abuse
+Purple Team Methodology
+C2 Development
+Detection Engineering
 ```
 
 ---
 
 ## `> currently_building`
 
-- Practical cybersecurity labs and projects
-- Security automation scripts
-- Linux learning material for beginners
-- Web security playbooks and methodologies
-- Open-source cybersecurity resources
-- Personal security research projects
+- Writeups and Active Directory attack-path breakdowns for zephryx.in
+- Sigma / KQL detection rules for the techniques I use offensively
+- Security automation and recon tooling
+- Cheatsheets and practical methodologies from real engagements
+- Open-source offensive security tools
 
 ---
 
 ## `> field_kit`
 
-| Cybersecurity | Offensive Security | Development |
-|---------------|-------------------|-------------|
-| Threat Hunting | Web Reconnaissance | Python |
-| SIEM Basics | Linux | Bash |
-| Network Analysis | Enumeration | Git |
-| Security Research | Web Security | TypeScript |
-| Practical Labs | CTFs | Next.js |
+| Offensive Security | Detection & Defence | Development |
+|---------------------|----------------------|-------------|
+| Penetration Testing | Threat Hunting | Python |
+| Active Directory | Sigma / KQL | Bash |
+| Initial Access | Splunk / Elastic / Sentinel | PowerShell |
+| C2 (Cobalt Strike, Sliver) | ATT&CK Navigator | Go |
+| Burp Suite / Metasploit | Velociraptor / Zeek | Git |
 
 ---
 
-## `> operating_principles`
+## `> rules_of_engagement`
 
 ```text
-01. Learn by doing.
+01. No written authorisation, no engagement. No exceptions.
 
-02. Understand the system before touching the exploit.
+02. Stay inside scope, full stop.
 
-03. Build practical skills over theoretical knowledge.
+03. Prove a finding is real without causing the damage it's capable of.
 
-04. Share what you learn.
+04. Anything accessed during an engagement gets reported, minimised, and deleted after.
 
-05. Automate repetitive tasks.
+05. The report is what the client is paying for — the shell is just proof.
 
-06. Practice only in authorized environments.
+06. If I find a way in, I go back and write the detection for it.
 
-07. Stay curious and keep learning.
+07. Practice only in authorized environments.
 ```
 
 ---
@@ -137,13 +139,13 @@ Python
   |
 Web Security
   |
-Threat Hunting
+Active Directory
   |
-Offensive Security
+Adversary Emulation
   |
-Security Research
+Threat Hunting & Detection Engineering
   |
-Build Projects
+Penetration Testing (current)
   |
 Teach What You Learn
 
@@ -156,15 +158,15 @@ Teach What You Learn
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/zephryx01/zephryx01/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/zephryxsec/zephryxsec/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/zephryx01/zephryx01/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/zephryxsec/zephryxsec/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="GitHub contribution graph"
-    src="https://raw.githubusercontent.com/zephryx01/zephryx01/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/zephryxsec/zephryxsec/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
@@ -172,7 +174,7 @@ Teach What You Learn
 
 <div align="center">
 
-### Learn • Build • Share
+### Break • Detect • Share
 
 <sub>
 Security-related content is intended for educational purposes and is limited to authorized environments, labs, CTFs, and responsible disclosure programs.
