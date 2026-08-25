@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/zephryx">
     <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge" />
   </a>
-  <a href="https://instagram.com/zephryx.sec">
+  <a href="https://instagram.com/zephryxsec">
     <img src="https://img.shields.io/badge/insta-8B0000?style=for-the-badge" />
   </a>
   <a href="https://x.com/zephryxsec">
