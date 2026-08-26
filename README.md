@@ -11,16 +11,16 @@
   <a href="https://zephryx.in">
     <img src="https://img.shields.io/badge/Website-8B0000?style=for-the-badge" />
   </a>
-  <a href="https://www.youtube.com/@ZephryxSec">
+  <a href="https://www.youtube.com/@0xZephryx">
     <img src="https://img.shields.io/badge/YouTube-8B0000?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/zephryx">
     <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge" />
   </a>
-  <a href="https://instagram.com/zephryxsec">
+  <a href="https://www.instagram.com/0xzephryx/">
     <img src="https://img.shields.io/badge/insta-8B0000?style=for-the-badge" />
   </a>
-  <a href="https://x.com/zephryxsec">
+  <a href="https://x.com/0xZephryx">
     <img src="https://img.shields.io/badge/X/Twitter-8B0000?style=for-the-badge" />
   </a>
   <a href="mailto:contact@zephryx.in">
