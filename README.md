@@ -11,16 +11,16 @@
   <a href="https://zephryx.in">
     <img src="https://img.shields.io/badge/Website-8B0000?style=for-the-badge" />
   </a>
-  <a href="https://www.youtube.com/@0xZephryx">
+  <a href="https://www.youtube.com/@iamzephryx">
     <img src="https://img.shields.io/badge/YouTube-8B0000?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/zephryx">
     <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge" />
   </a>
-  <a href="https://www.instagram.com/0xzephryx/">
+  <a href="https://www.instagram.com/iamzephryx/">
     <img src="https://img.shields.io/badge/insta-8B0000?style=for-the-badge" />
   </a>
-  <a href="https://x.com/0xZephryx">
+  <a href="https://x.com/iamzephryx">
     <img src="https://img.shields.io/badge/X/Twitter-8B0000?style=for-the-badge" />
   </a>
   <a href="mailto:contact@zephryx.in">
@@ -158,15 +158,15 @@ Teach What You Learn
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/zephryxsec/zephryxsec/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/iamzephryx/iamzephryx/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/zephryxsec/zephryxsec/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/iamzephryx/iamzephryx/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="GitHub contribution graph"
-    src="https://raw.githubusercontent.com/zephryxsec/zephryxsec/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/iamzephryx/iamzephryx/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
